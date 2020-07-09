@@ -5,12 +5,7 @@ friendFinder is a web application designed to help you find a new friend. Take t
 ## To Start This App
 Npm packages will be necessary to run My Bookshelf. Open your terminal and install:
 * NPM
-* Mongoose
-* Axios
-* React-Router-Dom
-* Concurrently
-
-A MongoDB database will also be necessary. Using Robo3T, or another NoSql DB GUI, create a database called 'books'. Use the seedDB.js file to add a book seed. 
+* Express
 
 ## To Use This App
 ### Home/Search Page
