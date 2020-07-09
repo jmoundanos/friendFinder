@@ -8,10 +8,11 @@ Npm packages will be necessary to run My Bookshelf. Open your terminal and insta
 * Express
 
 ## To Use This App
+### Home Page
+![Screenshot of Friend Finder Home Page](app/public/assets/friendFinder_home.png)
 
-![Screenshot of My Bookshelf Home Page](client/public/searchPage.png)
-
-
+### Survey Page
+![Screenshot of Friend Finder Home Page](app/public/assets/friendFinder_survey.png)
 ## Deploy
 Deploy to Heroku. 
 
