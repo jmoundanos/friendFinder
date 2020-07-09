@@ -13,6 +13,7 @@ Npm packages will be necessary to run My Bookshelf. Open your terminal and insta
 
 ### Survey Page
 ![Screenshot of Friend Finder Home Page](app/public/assets/friendFinder_survey.png)
+
 ## Deploy
 Deploy to Heroku. 
 
