@@ -15,13 +15,11 @@ Npm packages will be necessary to run My Bookshelf. Open your terminal and insta
 ![Screenshot of My Bookshelf Saved BooksPage](client/public/savedPage.png)
 
 ## Deploy
-Deploy to Heroku. Provision database before deploying.
+Deploy to Heroku. 
 
-## Built With
-* React
+## Built With:
 * Javascript
 * Node
-* MongoDB
 * Heroku
 * NPM
 * Git
