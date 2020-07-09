@@ -1,6 +1,6 @@
 # friendFinder
 
-friendFinder is a web application designed to help you find a new friend. Take the survey and the app will match you to a person with similar survey answers.
+FriendFinder is a web application designed to help you find a new friend. Take the survey and the app will match you to a person with similar survey answers.
 
 ## To Start This App
 Npm packages will be necessary to run My Bookshelf. Open your terminal and install:
