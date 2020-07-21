@@ -15,7 +15,7 @@ Npm packages will be necessary to run My Bookshelf. Open your terminal and insta
 ![Screenshot of Friend Finder Home Page](app/public/assets/friendFinder_survey.png)
 
 ## Deploy
-Deploy to Heroku. 
+Deploy to Heroku. https://floating-depths-26157.herokuapp.com/
 
 ## Built With:
 * Javascript
